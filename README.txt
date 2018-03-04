@@ -4,4 +4,6 @@ This project is a simple demonstration on how to write the basic "Hello World" p
 
 Languages Used:
 
-	- C 
+	- C
+	- Java
+	- JavaScript 
